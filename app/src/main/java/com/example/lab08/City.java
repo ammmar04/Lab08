@@ -1,6 +1,7 @@
 package com.example.lab08;
 
 public class City {
+    // adding a random comment
     private String city;
     private String province;
 
